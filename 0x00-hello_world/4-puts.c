@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main function prints the string
+ * main - function prints the string
  * Return: 0 if brings the expected output, non-zero otherwise
  */
 int main(void)
