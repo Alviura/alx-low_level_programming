@@ -4,18 +4,18 @@
 /**
  * print_most_numbers - prints the numbers, from 0 to 9,
  * except 2 and 4,
-*/
+ */
 void print_most_numbers(void)
 {
 	int i;
 
-	for (i = 48; i < 58; i++)
+	for (i = 48; i < 58; n++)
 	{
-		if ((i == 50) || (i == 52))
+		if((i == 50) || (i == 52))
 		{
 			continue;
 		}
-	        putchar(i);
+		putchar(i);
 	}
 	putchar(10);
 }
