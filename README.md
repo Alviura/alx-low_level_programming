@@ -1,1 +1,1 @@
-Introduction to c programming language
+This repository contains my first C projects.
